@@ -4,7 +4,7 @@
 
 ### Vocational High School Student • Web Developer • UI/UX Enthusiast
 
-![Profile Views](https://komarev.com/ghpvc/?username=RajaAja06&color=blueviolet&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajaaja06.github.io/Portfolio-Muhammad_Raja/)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 - 🎓 Student at **SMK Telkom Purwokerto**
 - 💻 Interested in **Web Development, UI/UX, and Data Analysis**
-- 🌱 Currently learning **HTML, CSS, JavaScript, PHP, and GitHub**
+- 🌱 Currently learning **HTML, CSS, JavaScript, PHP, Python, and GitHub**
 - 🎮 Hobbies: volleyball, gaming, gym, and 3D game art
-- 📫 Reach me: **rajasudibya@gmail.com**
+- 🌐 Portfolio: [rajaaja06.github.io/Portfolio-Muhammad_Raja](https://rajaaja06.github.io/Portfolio-Muhammad_Raja/)
 
 ---
 
@@ -36,10 +36,6 @@
 </p>
 
 ---
-
-## 🌐 Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](ISI_LINK_PORTOFOLIO_KAMU)
 
 <div align="center">
 
