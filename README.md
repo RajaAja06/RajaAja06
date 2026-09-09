@@ -42,11 +42,7 @@
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=RajaAja06&show_icons=true&theme=tokyonight&hide_border=true"
-  height="165"
-  alt="GitHub statistics"
-/>
+
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=RajaAja06&theme=tokyonight&hide_border=true"
